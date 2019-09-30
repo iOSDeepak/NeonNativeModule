@@ -1,32 +1,32 @@
 {
-    "name": "react-native-native-toast-library-Neon",
-    "title": "React Native Native Toast Library-Neon",
-    "version": "1.0.0",
-    "description": "TODO",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+    "name":"react-native-native-toast-library-Neon",
+    "title":"React Native Native Toast Library-Neon",
+    "version":"1.0.0",
+    "description":"TODO",
+    "main":"index.js",
+    "scripts":{
+        "test":"echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-           "type": "git",
-           "url": "git+https://github.com/iOSDeepak/NeonNativeModule.git",
+    "repository":{
+           "type":"git",
+           "url""git+https://github.com/iOSDeepak/NeonNativeModule.git",
            "baseUrl": "https://github.com/iOSDeepak/NeonNativeModule"
          },
-    "keywords": [
+    "keywords":[
         "react-native"
     ],
-    "author": {
-           "name": "Deepak",
-           "email": "deepakglbitm07@gmail.com"
+    "author":{
+           "name":"Deepak",
+           "email":"deepakglbitm07@gmail.com"
          },
-    "license": "MIT",
-     "licenseFilename": "LICENSE",
-     "readmeFilename": "README.md",
-    "peerDependencies": {
-        "react-native": "^0.41.2",
-        "react-native-windows": "0.41.0-rc.1"
+    "license":"MIT",
+     "licenseFilename":"LICENSE",
+     "readmeFilename":"README.md",
+    "peerDependencies":{
+        "react-native":"^0.41.2",
+        "react-native-windows":"0.41.0-rc.1"
     },
-    "devDependencies": {
-        "react-native": "0.41.2"
+    "devDependencies":{
+        "react-native":"0.41.2"
     }
 }

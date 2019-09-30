@@ -1,5 +1,5 @@
 {
-    "name": "react-native-native-toast-library",
+    "name": "react-native-native-toast-library-Neon",
     "title": "React Native Native Toast Library-Neon",
     "version": "1.0.0",
     "description": "TODO",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/iOSDeepak/NeonNativeModule.git",
+        "url": "git+https://github.com/iOSDeepak/NeonNativeModule.git",
         "baseUrl": "https://github.com/iOSDeepak/NeonNativeModule"
     },
     "keywords": [

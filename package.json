@@ -10,7 +10,7 @@
     "repository":{
            "type":"git",
            "url":"git+https://github.com/iOSDeepak/NeonNativeModule.git",
-           "baseUrl": "https://github.com/iOSDeepak/NeonNativeModule"
+           "baseUrl":"https://github.com/iOSDeepak/NeonNativeModule"
          },
     "keywords":[
         "react-native"
